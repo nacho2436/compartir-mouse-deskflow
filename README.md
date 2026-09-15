@@ -1,4 +1,4 @@
-# Compartir mouse y teclado entre equipos (Deskflow)
+# 🖱️ Compartir mouse y teclado entre equipos (Deskflow)
 
 Solución para usar un solo mouse y teclado entre **dos equipos**:
 
