@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Deskflow Server
+Comment=Compartir mouse y teclado con otros equipos (servidor)
+Exec=sh -c 'exec deskflow-core server >> ~/.config/Deskflow/deskflow-server.log 2>&1'
+Terminal=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=3
