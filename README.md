@@ -36,3 +36,9 @@ deskflow-core client <IP-del-servidor>   # ejecutar en el Mint
   `config/deskflow-server.conf` (secciones `screens` y `links`).
 - Sesión de origen: "Compartir mouse entre Ubuntu y Linux Mint".
 Respaldo verificado: 2026-09-15 11:05
+
+## ☕ Donaciones
+
+Si este proyecto te sirve, apóyame en Ko-fi:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F81BZQDW)
