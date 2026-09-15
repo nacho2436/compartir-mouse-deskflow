@@ -35,3 +35,4 @@ deskflow-core client <IP-del-servidor>   # ejecutar en el Mint
 - Si cambias el nombre de un equipo, edítalo en
   `config/deskflow-server.conf` (secciones `screens` y `links`).
 - Sesión de origen: "Compartir mouse entre Ubuntu y Linux Mint".
+Respaldo verificado: 2026-09-15 11:05
