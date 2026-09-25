@@ -1,0 +1,16 @@
+[Unit]
+Description=Servidor Deskflow (compartir mouse y teclado con el Mint)
+PartOf=graphical-session.target
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/deskflow-core server
+Restart=always
+RestartSec=5
+StartLimitIntervalSec=0
+StandardOutput=append:%h/.config/Deskflow/deskflow-server.log
+StandardError=append:%h/.config/Deskflow/deskflow-server.log
+
+[Install]
+WantedBy=graphical-session.target
